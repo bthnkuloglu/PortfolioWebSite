@@ -136,6 +136,7 @@ export const translations = {
     },
     skills: {
       badge: 'Uzmanlık Alanları',
+      title1: " ",
       title2: 'Teknik Yetenekler',
       subtitle: 'Performans İçin Geliştirildi. Gelecek İçin Ölçeklendi.',
       cat1: 'Ön Yüz Mimarisi',
