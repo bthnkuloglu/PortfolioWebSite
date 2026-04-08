@@ -108,7 +108,7 @@ const Skills = () => {
             <span className="text-[10px] font-black uppercase tracking-[0.5em] text-primary">{t('skills.badge')}</span>
           </div>
           <h2 className="text-5xl md:text-8xl font-black font-outfit tracking-tighter text-white italic ml-2 leading-[0.9] mb-8">
-            {t('skills.title1')} <br /> 
+            
             <span className="text-gradient drop-shadow-[0_0_20px_rgba(0,242,255,0.2)]">{t('skills.title2')}</span>
           </h2>
           <p className="text-gray-500 max-w-xl text-lg font-medium leading-relaxed font-outfit ml-3">
