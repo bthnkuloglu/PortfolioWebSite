@@ -31,8 +31,8 @@ export const translations = {
     },
     skills: {
       badge: 'Expertise',
-      title1: 'Modern',
-      title2: 'Technical Stack',
+      title1: '',
+      title2: 'Technical Skills',
       subtitle: 'Engineered for Performance. Scaled for the Future.',
       cat1: 'Frontend Architecture',
       cat2: 'Mobile Solutions',
